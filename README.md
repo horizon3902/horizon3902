@@ -1,5 +1,5 @@
 # Hey, I'm Kshitij! 👋🏽
-* 📚 I'm currently a first year student studying in Indian Institute of Information Technology, Nagpur.
+* 📚 I'm currently a second year CSE student studying in Indian Institute of Information Technology, Nagpur.
 * 💻 I'm interested in Data Science and Machine Learning
 * 📃 Currently, learning Python and different modules and frameworks. Repos listed are just experiments.
 
