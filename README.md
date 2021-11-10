@@ -5,4 +5,4 @@
 
 ## Get in touch with me! 📱
 Instagram -> [Kshitij Agarkar](https://www.instagram.com/kshitij_agarkar/ "Instagram Account")<br>
-E-Mail -> <bt20ece070@iiitn.ac.in>
+E-Mail -> <bt20cse209@iiitn.ac.in>
