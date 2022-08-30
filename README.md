@@ -1,5 +1,5 @@
 # Hey, I'm Kshitij! 👋🏽
-* 📚 I'm currently a second year CSE student studying in Indian Institute of Information Technology, Nagpur.
+* 📚 I'm currently a third year CSE student studying in Indian Institute of Information Technology, Nagpur.
 * 💻 I'm interested in Data Science, Machine Learning and Artificial Intelligence and currently exploring different technologies
       related to AI/ML and Deep Learning.
 * 📃 Known Languages: C, C++, Python, Java, HTML, CSS and JavaScript.
