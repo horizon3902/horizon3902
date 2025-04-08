@@ -1,8 +1,6 @@
-# Hey, I'm Kshitij! 👋🏽
-* 📚 I'm currently a fourth year CSE student studying in Indian Institute of Information Technology, Nagpur.
-* 💻 I'm interested in Data Science, Machine Learning and Artificial Intelligence and currently exploring different technologies
-      related to AI/ML and Deep Learning.
-* 📃 Known Languages: C, C++, Python, Java, HTML, CSS and JavaScript.
+Kshitij Agarkar, MTech (RA)
+Department of Artificial Intelligence
+Indian Institute of Technology, Hyderabad
 
 ## Get in touch with me! 📱
 <p align='center'>
